@@ -31,8 +31,9 @@ credit-risk-analysis/
 │   ├── credit_model.pkl          # modelo treinado
 │   └── scaler.pkl                # scaler
 │
-├── credit_eda.ipynb              # análise exploratória
-├── credit_ml.ipynb               # modelagem, avaliação e SHAP
+├── notebooks                     
+│   ├── credit_ml.ipynb           # modelagem, avaliação e SHAP
+│   └── credit_eda.ipynb          # análise exploratória
 ├── app.py                        # interface Streamlit
 └── requirements.txt
 ```
